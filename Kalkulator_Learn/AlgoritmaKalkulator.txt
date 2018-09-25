@@ -1,0 +1,12 @@
+input (nilai_1) -> 2
+input (nilai_2) -> 4
+proses 
+	-> penjumlahan
+	-> pengurangan
+	-> perkalian
+	-> pembagian
+
+// Proses Tambah
+hit_plus = nilai_1 + nilai_2
+
+output (hit_plus)
